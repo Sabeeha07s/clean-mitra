@@ -1,0 +1,4 @@
+.root { -fx-font-family: "Arial"; -fx-background-color: #f3f6f4; }
+.title { -fx-font-size: 24px; -fx-font-weight: bold; -fx-text-fill: #20563d; }
+.panel { -fx-background-color: white; -fx-padding: 16px; -fx-background-radius: 12px; }
+.button { -fx-background-color: #276b49; -fx-text-fill: white; -fx-background-radius: 7px; }
